@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan Opperman
 - 👀 I’m interested in Test Strategy & Automation
-- 🌱 I’m currently learning Terraform
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on Testing Projects
 - 📫 How to reach me opperman.jonathan@gmail.com
 
